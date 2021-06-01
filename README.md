@@ -3,12 +3,14 @@
 [get](https://rvytevpbtf.execute-api.us-east-1.amazonaws.com/people) to get all user
 --------------------
 
-[get by id](https://rvytevpbtf.execute-api.us-east-1.amazonaws.com/people)`{id}` to get specific people 
+[get by id](https://rvytevpbtf.execute-api.us-east-1.amazonaws.com/people)`{id}` to get specific people
 
 --------------------
 
 [post](https://rvytevpbtf.execute-api.us-east-1.amazonaws.com/people/)`{id}` to add new people
 
+`name`---> `String`
+Age -----> `Number`
 --------------------
 
 [put](https://rvytevpbtf.execute-api.us-east-1.amazonaws.com/people/)`{id}` to update exist people 
